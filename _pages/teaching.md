@@ -1,11 +1,57 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Here's a list of all the courses that I've been a TA for.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<p>
+    <a>
+        <strong>
+            Operating Systems and Lab
+        </strong> (Teaching Assistant)
+    </a><br>
+    Fall '20, Spring '20, and Fall '19, University of Tehran<br>
+    Instructor: Prof. Mehdi Kargahi
+</p>
 
-Organize your courses by years, topics, or universities, however you like!
+<p>
+    <a>
+        <strong>
+            Software Engineering
+        </strong> (Teaching Assistant)
+    </a><br>
+    Fall '20, University of Tehran<br>
+    Instructor: Prof. Ramtin Khosravi
+</p>
+
+<p>
+    <a>
+        <strong>
+            Systems Analysis and Design
+        </strong> (Head Teaching Assistant)
+    </a><br>
+    Spring '20, University of Tehran<br>
+    Instructor: Prof. Fatemeh Ghassemi
+</p>
+
+<p>
+    <a>
+        <strong>
+            Internet Engineering
+        </strong> (Teaching Assistant)
+    </a><br>
+    Spring '20, University of Tehran<br>
+    Instructor: Prof. Ehsan Khamespanah
+</p>
+
+<p>
+    <a>
+        <strong>
+            Real-Time and Embedded Systems
+        </strong> (Teaching Assistant)
+    </a><br>
+    Spring '20, University of Tehran<br>
+    Instructor: Prof. Mehdi Kargahi
+</p>
