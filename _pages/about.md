@@ -6,7 +6,7 @@ description: Welcome to my personal website where you can find out about my past
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   address:
 
 news: false # includes a list of news items
